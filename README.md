@@ -1,4 +1,8 @@
-### Hi there 👋
+Nathan Ward is a musician, producer, and software engineer with two decades of experience that is using machine learning and artificial intelligence to design instruments, human-computer interfaces, and write and produce songs.
+
+The Cornell Electroacoustic Music Center (CEMC) says:
+
+> Beyond new creative music work, CEMC also supports research. Center research has already won awards and garnered interest from beyond Cornell. In 2008, student Nathan Ward’s CUMotive (Wearable Interfaces for Cyberphysical Musical Expression) won the “Where’s the BOOM” award as well as an invitation to give a paper at the prestigious 2008 NIME (New Interfaces for Musical Expression) conference. Ward is a long-time contributor to CEMC and performed along with other CEMC composers and technologists at the first musical performance of any kind at Google (Administrative headquarters in New York, 2006 and again in 2007). The Google event set off a Cornell/Google collaborative effort to build an audio search mechanism, Search by Humming, developed at CEMC with Professor Graeme Bailey in Computer Information Science.
 
 <!--
 **vine77/vine77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
