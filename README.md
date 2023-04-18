@@ -1,4 +1,4 @@
-ChatGPT calls Nathan a "a multifaceted talent in music and technology, boasting over two decades of experience as a musician, producer, and software engineer, specializing in the innovative application of machine learning and artificial intelligence (ML/AI) to the development of cutting-edge musical instruments, human-computer interfaces, and songwriting and production techniques."
+GPT-4 calls Nathan a "a multifaceted talent in music and technology, boasting over two decades of experience as a musician, producer, and software engineer, specializing in the innovative application of machine learning and artificial intelligence (ML/AI) to the development of cutting-edge musical instruments, human-computer interfaces, and songwriting and production techniques." 😆
 
 The Cornell Electroacoustic Music Center (CEMC) [says](http://digital.music.cornell.edu/center-research/):
 
