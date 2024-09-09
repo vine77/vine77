@@ -1,8 +1,7 @@
 👋 I'm an engineer in Portland. More at [linkedin.com/in/accelerometer](https://linkedin.com/in/accelerometer).
 
-🤖 GPT-4 says:
-
-> "Nathan is a multifaceted talent in music and technology, boasting over two decades of experience as a musician and software engineer, specializing in the innovative application of artificial intelligence to the development of novel human-computer interfaces and musical instruments." 😆
+- 👨‍💻 Software engineer, specializing in AI, HCI, UX, and cross-platform application development
+- 🎹 Musician, composer, producer, instrument designer
 
 🎼 The Cornell Electroacoustic Music Center (CEMC) [says](http://digital.music.cornell.edu/center-research/):
 
