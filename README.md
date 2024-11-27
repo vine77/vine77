@@ -3,7 +3,7 @@
 - 👨‍💻 Software engineer, specializing in AI, HCI, UX, and cross-platform application development
 - 🎹 Musician, composer, producer, instrument designer
 
-🎼 The Cornell Electroacoustic Music Center (CEMC) [says](http://digital.music.cornell.edu/center-research/):
+🎼 The Cornell Electroacoustic Music Center (CEMC) [says](https://web.archive.org/web/20230926222226if_/http://digital.music.cornell.edu/center-research/):
 
 > Beyond new creative music work, CEMC also supports research. Center research has already won awards and garnered interest from beyond Cornell. In 2008, student Nathan Ward’s CUMotive (Wearable Interfaces for Cyberphysical Musical Expression) won the “Where’s the BOOM” [faculty] award as well as an invitation to give a paper at the prestigious 2008 NIME (New Interfaces for Musical Expression) conference. Ward is a long-time contributor to CEMC and performed along with other CEMC composers and technologists at the first musical performance of any kind at Google (Administrative headquarters in New York, 2006 and again in 2007). The Google event set off a Cornell/Google collaborative effort to build an audio search mechanism, Search by Humming, developed at CEMC with Professor Graeme Bailey in Computer Information Science.
 
