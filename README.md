@@ -1,11 +1,11 @@
 👋 I'm an engineer in Portland. More at [linkedin.com/in/accelerometer](https://linkedin.com/in/accelerometer).
 
-- 👨‍💻 Software engineer, specializing in AI, HCI, UX, and cross-platform application development
+- 👨‍💻 Software engineer, specializing in AI engineering, HCI/UX and design engineering, full-stack architecture, and scalable system design
 - 🎹 Musician, composer, producer, instrument designer
 
 🎼 The Cornell Electroacoustic Music Center (CEMC) [says](http://digital.music.cornell.edu/center-research/):
 
-> Beyond new creative music work, CEMC also supports research. Center research has already won awards and garnered interest from beyond Cornell. In 2008, student Nathan Ward’s CUMotive (Wearable Interfaces for Cyberphysical Musical Expression) won the “Where’s the BOOM” [faculty] award as well as an invitation to give a paper at the prestigious 2008 NIME (New Interfaces for Musical Expression) conference. Ward is a long-time contributor to CEMC and performed along with other CEMC composers and technologists at the first musical performance of any kind at Google (Administrative headquarters in New York, 2006 and again in 2007). The Google event set off a Cornell/Google collaborative effort to build an audio search mechanism, Search by Humming, developed at CEMC with Professor Graeme Bailey in Computer Information Science.
+> Nathan Ward’s CUMotive (Wearable Interfaces for Cyberphysical Musical Expression) won the faculty award at Bits on Our Mind as well as an invitation to give a paper at the prestigious New Interfaces for Musical Expression conference. Ward is a long-time contributor to CEMC and performed along with other CEMC composers and technologists at the first musical performance of any kind at Google.
 
 <!--
 **vine77/vine77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
